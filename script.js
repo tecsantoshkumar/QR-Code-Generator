@@ -1,3 +1,8 @@
+/* 
+ * @author  Tec Santosh Kumar
+ * @version 1.0, 30/08/2022
+ */
+
 const wrapper = document.querySelector(".wrapper"),
 qrInput = wrapper.querySelector(".form input"),
 generateBtn = wrapper.querySelector(".form button"),
